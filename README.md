@@ -1,6 +1,6 @@
 # Police Missions Script for QBCore
 
-A comprehensive police mission system for QBCore FiveM servers that creates dynamic scenarios for law enforcement roleplay.
+A comprehensive police mission system for QBCore FiveM servers that creates dynamic scenarios for law enforcement roleplay. I used it in my server for a while
 
 ## Features
 
